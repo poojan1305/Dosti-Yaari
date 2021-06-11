@@ -1,0 +1,25 @@
+
+.display-4{
+  color: aqua;
+  opacity: 0.75;
+  font-weight: 100;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+
+.footer-dark {
+  padding: 50px 0;
+  color: #f0f9ff;
+  background-color: #282d32;
+}
+
+
+
+
+
+.copyright{
+  text-align: center;
+  font-size: 25px;
+}
